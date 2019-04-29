@@ -1,0 +1,28 @@
+{
+  "name": "daftacademy-5",
+  "version": "1.0.0",
+  "description": "Testing with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iluzjonista/daftacademy-5.git"
+  },
+  "author": "Adam Uklański",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iluzjonista/daftacademy-5/issues"
+  },
+  "homepage": "https://github.com/Iluzjonista/daftacademy-5#readme",
+  "dependencies": {
+    "package": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-loader": "^8.0.5",
+    "jest": "^24.7.1"
+  }
+}
